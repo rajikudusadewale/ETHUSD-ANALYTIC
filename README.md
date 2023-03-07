@@ -1,2 +1,2 @@
 # ETHUSD-ANALYTIC
-Performance &amp; Predictive Dashboard &amp; Report
+Performance/Predictive Dashboard & Report
