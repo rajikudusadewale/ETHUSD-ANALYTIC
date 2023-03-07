@@ -2,7 +2,7 @@
 Performance/Predictive Dashboard & Report
 (Power BI)
 
-Data Source: (https://uk.finance.yahoo.com/quote/ETH-USD/history?p=ETH-USD)
+Data Source: (https://query1.finance.yahoo.com/v7/finance/download/ETH-USD?period1=1519862400&period2=1678147200&interval=1mo&events=history&includeAdjustedClose=true)
 
 ### OVERVIEW
 
