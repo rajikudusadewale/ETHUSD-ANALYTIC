@@ -1,4 +1,4 @@
-# ETH-USD-ANALYTIC 
+# ETH-USD-ANALYTICS
 Performance/Predictive Dashboard & Report
 (Power BI)
 
