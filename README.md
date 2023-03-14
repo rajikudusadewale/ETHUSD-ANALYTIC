@@ -4,6 +4,7 @@ Performance/Predictive Dashboard & Report
 
 Data Source: (https://query1.finance.yahoo.com/v7/finance/download/ETH-USD?period1=1519862400&period2=1678147200&interval=1mo&events=history&includeAdjustedClose=true)
 
+Interactive dashboard link: (https://lnkd.in/dDcTri56)
 ### OVERVIEW
 
 This dashboard provides a comprehensive view of Ethereum-USD (1st, march 2018 till present) based on a monthly timeframe and is 
