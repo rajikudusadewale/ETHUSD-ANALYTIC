@@ -15,3 +15,21 @@ This dashboard includes interactive features that allow users to filter and mani
 The data and information presented in this dashboard are subject to change and I make no guarantee as to its accuracy.
 I welcome feedback and suggestions on how to improve the dashboard. This dashboard is optimized for use on desktops and laptops 
 and may not display properly on mobile devices.
+
+**Trends and Insights**
+
+The Uninteractive Dashboard shows the performance of ETHUSD for 5 years with an average volume of 403.18 Billion,
+
+Average Open Price of $1,160, Average Close Price of $1,170, Average high price of $1,410, Average low price of $931.3.
+
+Based on the monthly timeframe, the Average Volume of ETHUSD on 01 Feb 2023 is 81.29 Billion, Average Open Price is $1,590,
+
+Average Close Price is $1,510, Average High Price is $1,700, Average Low Price is $1,500.
+
+In history, ETHUSD recorded its highest Volume 829.79Billion in November 2021 with an Average Close Price of $4631.48.
+
+In March 2018, ETHUSD recorded its monthly average close price at $396.46 with an Average Volume of 54.72 Billion.
+
+The information on the dashboard forecasted that by August 2023, ETHUSD should be trading at $1789.69 with an upper bound price of $4038.11,
+
+a lower bound price of -$458.73 an Average monthly volume of 117.2 Billion.
