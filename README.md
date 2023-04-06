@@ -9,6 +9,8 @@ Data Source: (https://query1.finance.yahoo.com/v7/finance/download/ETH-USD?perio
 Interactive dashboard link: (https://lnkd.in/dDcTri56)
 ### OVERVIEW
 
+![Dashboard](https://github.com/rajikudusadewale/ETHUSD-ANALYTIC/blob/main/ETHUSD%20Dashboard.jpg)
+
 This dashboard provides a comprehensive view of Ethereum-USD (1st, march 2018 till present) based on a monthly timeframe and is 
 designed to help crypto users to understand how ETHUSD has been performing for over 5 years and to have a forecast till August 2023. 
 The data used in this dashboard is a live dataset scraped from Yahoo Finance. The information displayed in this dashboard is intended 
